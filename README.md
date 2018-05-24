@@ -20,3 +20,5 @@ CurrentHashMap  importNew http://www.importnew.com/22007.html
 数据库  https://mp.weixin.qq.com/s/87BoE2-0mW_3qALyNSpiTw
 
 比较详细的springboot入门MVC框架搭建(idea kit) https://blog.csdn.net/u013248535/article/details/55100979 参见repositories/boot
+
+极客时间HashMap源码剖析 https://time.geekbang.org/column/article/8053  外加一些链接
