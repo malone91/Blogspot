@@ -25,3 +25,5 @@ CurrentHashMap  importNew http://www.importnew.com/22007.html
 如 HashMap 在并发环境可能出现无限循环占用 CPU、size 不准确，这源于使用错误。
 
 equals 和 == https://www.cnblogs.com/findumars/p/3746878.html 先了解各自，再进行比较
+
+https://tech.meituan.com/ 美团技术博客
