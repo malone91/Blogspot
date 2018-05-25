@@ -34,3 +34,5 @@ CurrentHashMap  importNew http://www.importnew.com/22007.html
 equals 和 == https://www.cnblogs.com/findumars/p/3746878.html 先了解各自，再进行比较
 
 https://tech.meituan.com/ 美团技术博客
+
+最小堆 https://www.cnblogs.com/big-sun/p/4085793.html
