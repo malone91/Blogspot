@@ -38,3 +38,5 @@ https://tech.meituan.com/ 美团技术博客
 最小堆 https://www.cnblogs.com/big-sun/p/4085793.html
 
 堆排序 https://www.cnblogs.com/zhonghuasong/p/6553931.html
+
+shardingdbc分库分表策略 springboot示例： https://blog.csdn.net/u011116672/article/details/78576117?utm_source=debugrun&utm_medium=referral
