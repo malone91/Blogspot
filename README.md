@@ -40,3 +40,5 @@ https://tech.meituan.com/ 美团技术博客
 堆排序 https://www.cnblogs.com/zhonghuasong/p/6553931.html
 
 shardingdbc分库分表策略 springboot示例： https://blog.csdn.net/u011116672/article/details/78576117?utm_source=debugrun&utm_medium=referral
+
+掘金的springboot项目： https://juejin.im/post/5ad6b3c3f265da237c696ba0 我本地的项目名：boot-back
