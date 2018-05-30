@@ -50,4 +50,4 @@ dubbo基础教程，来自掘金网  https://juejin.im/entry/5a8e47c25188257a6c6
 <dubbo:reference id="helloService" interface="com.melo.service.HelloService"/>，id必须加上，否则会注入接口失败。
 down下zookeeper源码，看监控后台。
 
-springboot与dubbo的整合 https://www.jianshu.com/p/78835f740404
+Spring Boot + Dubbo + Docker + Jenkins知乎  https://zhuanlan.zhihu.com/p/33296468
