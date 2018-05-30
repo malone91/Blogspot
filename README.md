@@ -45,4 +45,4 @@ shardingdbc分库分表策略 springboot示例： https://blog.csdn.net/u0111166
 
 高手徒手撸Spring框架 https://juejin.im/post/5a5875a4518825733a30a463 from anjuke
 
-dubbo基础教程，来自掘金网  https://juejin.im/entry/5a8e47c25188257a6c6918f5
+dubbo基础教程，来自掘金网  https://juejin.im/entry/5a8e47c25188257a6c6918f5  项目右键add framework support
