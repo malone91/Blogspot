@@ -48,5 +48,6 @@ shardingdbc分库分表策略 springboot示例： https://blog.csdn.net/u0111166
 dubbo基础教程，来自掘金网  https://juejin.im/entry/5a8e47c25188257a6c6918f5  项目右键add framework support
 注意，该文档有一处是错误的，在服务消费端的dubbo配置文件的<dubbo:reference interface="com.melo.service.HelloService"/>少一项id，加上id="helloService",所有全称是：
 <dubbo:reference id="helloService" interface="com.melo.service.HelloService"/>，id必须加上，否则会注入接口失败。
+down下zookeeper源码，看监控后台。
 
 springboot与dubbo的整合 https://www.jianshu.com/p/78835f740404
