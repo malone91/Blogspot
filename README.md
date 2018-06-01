@@ -61,3 +61,5 @@ Spring Boot + Dubbo + Docker + Jenkins知乎  https://zhuanlan.zhihu.com/p/33296
 limit分页查询调优，使用子查询  >=(... limit 1000 1) limit 10  https://blog.csdn.net/beyondhjjyt/article/details/52154406
 
 存储过程模拟大量用户登录 https://blog.csdn.net/zhangxiaoma_1990/article/details/53177607?locationNum=5&fps=1
+
+maven的整体认识  https://segmentfault.com/a/1190000015077021
