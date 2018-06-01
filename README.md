@@ -57,3 +57,5 @@ down下zookeeper源码，看监控后台。
 Spring Boot + Dubbo + Docker + Jenkins知乎  https://zhuanlan.zhihu.com/p/33296468
 
 使用idea导入github上的项目注意事项 https://blog.csdn.net/tuesdayma/article/details/77719538
+
+limit分页查询调优，使用子查询  >=(... limit 1000 1) limit 10  https://blog.csdn.net/beyondhjjyt/article/details/52154406
