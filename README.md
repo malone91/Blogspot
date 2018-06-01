@@ -55,3 +55,5 @@ dubbo基础教程，来自掘金网  https://juejin.im/entry/5a8e47c25188257a6c6
 down下zookeeper源码，看监控后台。
 
 Spring Boot + Dubbo + Docker + Jenkins知乎  https://zhuanlan.zhihu.com/p/33296468
+
+使用idea导入github上的项目注意事项 https://blog.csdn.net/tuesdayma/article/details/77719538
