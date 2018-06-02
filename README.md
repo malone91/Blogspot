@@ -63,3 +63,5 @@ limit分页查询调优，使用子查询  >=(... limit 1000 1) limit 10  https:
 存储过程模拟大量用户登录 https://blog.csdn.net/zhangxiaoma_1990/article/details/53177607?locationNum=5&fps=1
 
 maven的整体认识  https://segmentfault.com/a/1190000015077021
+
+线程和线程池 https://mp.weixin.qq.com/s/fzIsN8DrLUj0NbcJiD6xSw
