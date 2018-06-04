@@ -4,6 +4,8 @@
 
 AQS详解 https://www.cnblogs.com/waterystone/p/4920797.html
 
+redis文档 http://redisdoc.com/index.html
+
 法宝利器 https://blog.csdn.net/tzs_1041218129/article/details/78024225
 
 芋道源码 http://www.iocoder.cn/?vip
