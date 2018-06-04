@@ -2,6 +2,8 @@
 
 走上神坛之路 https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650120926&idx=1&sn=4fb2d44c654fa6f26b5a0db28e91294c&chksm=f36bbfffc41c36e932b1ed36b22d3167fa5734cbae9056bb38f4ad647a7ddc68483b1c470782&mpshare=1&scene=1&srcid=0602RzbPdRQvjd1AHUt28AlR#rd
 
+AQS详解 https://www.cnblogs.com/waterystone/p/4920797.html
+
 法宝利器 https://blog.csdn.net/tzs_1041218129/article/details/78024225
 
 芋道源码 http://www.iocoder.cn/?vip
