@@ -77,3 +77,5 @@ rabbit集群搭建，芋道源码 https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2N
 使用 VisualVM 进行性能分析及调优 https://www.cnblogs.com/feng-gamer/p/6039380.html
 
 MarkDown语法 https://www.jianshu.com/p/q81RER
+
+线程占用CPU资源过高  https://my.oschina.net/javayou/blog/1627245
