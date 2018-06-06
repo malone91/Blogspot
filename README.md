@@ -79,3 +79,5 @@ rabbit集群搭建，芋道源码 https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2N
 MarkDown语法 https://www.jianshu.com/p/q81RER
 
 线程占用CPU资源过高  https://my.oschina.net/javayou/blog/1627245
+
+你真的hold住了Java了吗？致命打击  https://mp.weixin.qq.com/s/zDk0dpCfZiL7wilknimyLg
