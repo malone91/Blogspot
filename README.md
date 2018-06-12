@@ -6,6 +6,8 @@ AQS详解 https://www.cnblogs.com/waterystone/p/4920797.html
 
 对象复活 https://www.cnblogs.com/Smina/p/7189427.html
 
+消息队列入门 https://www.cnblogs.com/jahentao/p/activemq_study_1.html
+
 消息队列场景介绍和中间件选型 https://www.cnblogs.com/Terry-Wu/p/7644279.html
 
 IDEA快捷键  https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247485528&idx=2&sn=d2950883131053d46fceacc01aaaa6c9&chksm=ebd63774dca1be620bca78b62a67b0c93ab891f8f6326c8f5d93ca909f35139bbf4e4b7ed9ce&mpshare=1&scene=1&srcid=0608ECksWrhRwQ3v6EXjgtti#rd
