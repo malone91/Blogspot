@@ -6,6 +6,8 @@
 
 AQS详解 https://www.cnblogs.com/waterystone/p/4920797.html
 
+springboot与thrift整合 https://cloud.tencent.com/developer/article/1050391# 
+
 对象复活 https://www.cnblogs.com/Smina/p/7189427.html
 
 消息队列入门 https://www.cnblogs.com/jahentao/p/activemq_study_1.html
