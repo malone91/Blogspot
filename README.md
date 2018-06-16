@@ -6,6 +6,8 @@
 
 AQS详解 https://www.cnblogs.com/waterystone/p/4920797.html
 
+install centos10 
+
 springboot与thrift整合 https://cloud.tencent.com/developer/article/1050391# 
 
 用Maven部署war包到远程Tomcat服务器 http://www.importnew.com/21047.html
