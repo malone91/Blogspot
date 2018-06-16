@@ -7,6 +7,7 @@
 AQS详解 https://www.cnblogs.com/waterystone/p/4920797.html
 
 install centos10 https://blog.csdn.net/zyq_2014/article/details/79692181
+Linux配置Java环境变量 https://www.cnblogs.com/panzhaohui/p/6306675.html
 
 springboot与thrift整合 https://cloud.tencent.com/developer/article/1050391# 
 
