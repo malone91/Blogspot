@@ -6,7 +6,7 @@
 
 AQS详解 https://www.cnblogs.com/waterystone/p/4920797.html
 
-install centos10 
+install centos10 https://blog.csdn.net/zyq_2014/article/details/79692181
 
 springboot与thrift整合 https://cloud.tencent.com/developer/article/1050391# 
 
