@@ -11,6 +11,7 @@ Linux配置Java环境变量 https://www.cnblogs.com/panzhaohui/p/6306675.html
 Linux网络出问题 http://blog.51cto.com/addam/1839518
 
 springboot与thrift整合 https://cloud.tencent.com/developer/article/1050391# 
+客户端调用thrift，springboot应用 https://www.jianshu.com/p/52fa63b222ac?from=timeline
 
 用Maven部署war包到远程Tomcat服务器 http://www.importnew.com/21047.html
 
