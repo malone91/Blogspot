@@ -4,6 +4,8 @@
 
 函数式编程 https://www.cnblogs.com/snowInPluto/p/5981400.html
 
+监控JVM工具，JConsole http://igoder.iteye.com/blog/1523917
+
 AQS详解 https://www.cnblogs.com/waterystone/p/4920797.html
 
 install centos10 https://blog.csdn.net/zyq_2014/article/details/79692181
