@@ -12,6 +12,9 @@ install centos10 https://blog.csdn.net/zyq_2014/article/details/79692181
 Linux配置Java环境变量 https://www.cnblogs.com/panzhaohui/p/6306675.html
 Linux网络出问题 http://blog.51cto.com/addam/1839518
 
+数据库分析文章： https://juejin.im/post/5a9ca0d6518825555c1d1acd
+从JVM的角度进行String分析： https://juejin.im/post/5b45ef49f265da0f5140489c?utm_source=gold_browser_extension
+
 springboot与thrift整合 https://cloud.tencent.com/developer/article/1050391# 
 客户端调用thrift，springboot应用 https://www.jianshu.com/p/52fa63b222ac?from=timeline
 
