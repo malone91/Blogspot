@@ -12,6 +12,9 @@ install centos10 https://blog.csdn.net/zyq_2014/article/details/79692181
 Linux配置Java环境变量 https://www.cnblogs.com/panzhaohui/p/6306675.html
 Linux网络出问题 http://blog.51cto.com/addam/1839518
 
+如何找到 Java 进程中哪个线程占用了大量 CPU 处理时间： https://my.oschina.net/javayou/blog/1627245
+也是Linux ： https://github.com/oldratlee/useful-scripts/blob/master/docs/java.md#beer-show-busy-java-threads
+
 数据库分析文章： https://juejin.im/post/5a9ca0d6518825555c1d1acd
 从JVM的角度进行String分析： https://juejin.im/post/5b45ef49f265da0f5140489c?utm_source=gold_browser_extension
 
