@@ -4,6 +4,8 @@
 
 函数式编程 https://www.cnblogs.com/snowInPluto/p/5981400.html
 
+HashMap解读，开发者头条 https://crossoverjie.top/2018/07/23/java-senior/ConcurrentHashMap/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
 监控JVM工具，JConsole http://igoder.iteye.com/blog/1523917
 
 AQS详解 https://www.cnblogs.com/waterystone/p/4920797.html
